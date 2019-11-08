@@ -1,2 +1,2 @@
 # PowerShellScripts
-Power Shell scripts for SysAdministrator 
+Power Shell scripts for SysAdmin
